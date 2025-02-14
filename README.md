@@ -2,6 +2,6 @@
 
 Here is a screenshot of the deployed application:
 
-![Deployment Screenshot](./deploymentscreenshot.png)
+![Deployment Screenshot](./deployscreenshot)
 
 
